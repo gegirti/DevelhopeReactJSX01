@@ -1,4 +1,4 @@
-import ReactDOM from "react-dom";
+import { ReactDOM } from "react-dom";
 import { HelloWorld } from "./HelloWorld";
 
 const hello = <HelloWorld />;
