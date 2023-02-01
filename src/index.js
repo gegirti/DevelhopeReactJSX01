@@ -1,7 +1,7 @@
 import ReactDOM from "react-dom";
-import { HelloWorld } from "./HelloWorld";
+import { Sum } from "./sum";
 
-const hello = <HelloWorld />;
+const sum = <Sum />;
 const root = document.querySelector("#root");
 
-ReactDOM.render(hello, root);
+ReactDOM.render(sum, root);
